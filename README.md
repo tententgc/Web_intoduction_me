@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Web_intoduction_tenten
-It website for intro duction feeom me
+It website for intro duction from me
 =======
 
 if you looks that Website your will friends with me
